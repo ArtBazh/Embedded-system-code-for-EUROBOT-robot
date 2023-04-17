@@ -1,0 +1,10 @@
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Core\Src\freertos_routine_plug.c
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\FreeRTOS.h
+stm32f407_hse_test1\freertos_routine_plug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f407_hse_test1\freertos_routine_plug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\FreeRTOSConfig.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\projdefs.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\portable.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\deprecated_definitions.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\portable\RVDS\ARM_CM4F\portmacro.h
+stm32f407_hse_test1\freertos_routine_plug.o: ..\Middlewares\FreeRTOS-Kernel\include\mpu_wrappers.h

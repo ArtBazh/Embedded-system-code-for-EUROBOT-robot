@@ -1,0 +1,14 @@
+stm32f407_hse_test1\flags.o: ..\Core\Src\flags.c
+stm32f407_hse_test1\flags.o: ../Core/Inc/flags.h
+stm32f407_hse_test1\flags.o: ../Core/Inc/std_def.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Include/core_cm4.h
+stm32f407_hse_test1\flags.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Include/cmsis_version.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+stm32f407_hse_test1\flags.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+stm32f407_hse_test1\flags.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f407_hse_test1\flags.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h
